@@ -1,0 +1,68 @@
+h1 {
+    color: #fceb64;
+    font-weight:700;
+    font-size: 5em;
+    margin-bottom: .75em;
+}
+
+a {
+    background-color: #47a055 !important;
+    color:#fceb64 !important;
+    border:none !important;
+    width: 12em;
+    margin-top: -7em;
+}
+
+.container {margin-top: 15em;}
+
+#by {
+    vertical-align: text-top;
+    font-size: .25em;
+    color: #b72d2d;
+    padding-left: 14em;
+    margin-top: 50em ;
+}
+
+*.login {
+    margin-top: -100px;
+    table-layout: fixed;
+    width: 300px;
+}
+
+*.col1 {
+    overflow: hidden;
+    width: 110px;
+    color: #fceb64;
+}
+
+*.rowv1 {
+    height: 35px;
+}
+
+*.btn1 {
+    color: white;
+    background: transparent;
+}
+
+*.btn2 {
+    color: white;
+    background: transparent;
+    border: none;
+}
+
+/* CSS FOR SIGN UP PAGE */
+*.signup {
+    margin-top: -250px;
+    table-layout: fixed;
+    width: 300px;
+}
+
+*.col2 {
+    overflow: hidden;
+    width: 150px;
+    color: #fceb64;
+}
+
+*.phone {
+    padding-left: 0px;
+}
